@@ -1,0 +1,86 @@
+body{
+  background-image: url("images/neutral.jpg");
+}
+
+header{
+  height: 100px;
+  border: solid #804900;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+}
+
+#searchbar{
+  position: relative;
+  top: -120px;
+  left: 1100px;
+}
+
+#searchButton{
+  color: #804900;
+  padding: 10px;
+  margin: 2px;
+  background-color: antiquewhite;
+  border: solid rgb(226, 212, 194);
+  position: relative;
+  top: -130px;
+  left: 1250px;
+}
+
+#cartButton{
+  color: #804900;
+  background-color: antiquewhite;
+  padding: 10px;
+  margin: 2px;
+  border: solid rgb(226, 212, 194);
+  position: relative;
+  top: -40px;
+  left: 1350px;
+}
+
+#mainButton{
+  color: #804900;
+  background-color: antiquewhite;
+  padding: 10px;
+  margin: 2px;
+  border: solid rgb(226, 212, 194);
+  position: relative;
+  top: -130px;
+  left: 1350px;
+}
+
+#updateButton{
+  color: #804900;
+  background-color: antiquewhite;
+  padding: 10px;
+  margin: 2px;
+  border: solid rgb(226, 212, 194);
+  position: relative;
+  top: -220px;
+  left: 1250px;
+}
+
+.albums{
+  border: solid antiquewhite;
+  display: inline-block;
+  margin-top: 5px;
+  margin-left: 25px;
+}
+
+.image{
+  position: relative;
+  margin-left: 55px;
+  margin-top: 5px;
+}
+
+.name{
+  position: relative;
+  margin-left: 55px;
+}
+
+.btn{
+  color: #804900;
+  background-color: antiquewhite;
+  border: solid rgb(226, 212, 194);
+}
+
